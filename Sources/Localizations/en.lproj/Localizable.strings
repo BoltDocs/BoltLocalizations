@@ -1,0 +1,74 @@
+/*
+ * MIT License
+ *
+ * Copyright (c) 2024 Bolt Contributors
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
+"Framework-WelcomeController-welcomeTip" = "Welcome";
+"Framework-WelcomeController-title" = "Welcome";
+
+"Framework-AppCenter-updateAlertTitle" = "Update available.";
+"Framework-AppCenter-updateAlertMessage" = "Do you want to update?";
+"Framework-AppCenter-updateButtonTitle" = "Update";
+"Framework-AppCenter-remindLaterButtonTitle" = "Remind Later";
+"Framework-AppCenter-noUpdatesToast" = "No Updates Available";
+
+"Browser-BrowserController-defaultTitle" = "Browser";
+
+"Preferences-About-acknowledgementsTitle" = "Acknowledgements";
+"Preferences-About-contributeTitle" = "Contribute to Bolt";
+"Preferences-About-title" = "About";
+
+"Preferences-About-Contribute-localizationTitle" = "Localization";
+"Preferences-About-Contribute-helpTranslateButtonTitle" = "Help Us Translate Bolt";
+"Preferences-About-Contribute-openSourceTitle" = "First-Party Open Source Projects";
+"Preferences-About-Contribute-openSourceFooter" = "Bolt ❤️ Open Source :-)";
+
+"Preferences-ThirdPartyComponentVersions-Title" = "Third-Party Component Versions";
+
+"Preferences-TintColor-title" = "Tint Color";
+
+"Preferences-Home-CacheClear-alertTitle" = "Clearing Cache";
+"Preferences-Home-CacheClear-alertMessage" = "Please wait until it finishes";
+
+"Preferences-Home-Appearance-sectionTitle" = "Appearance";
+"Preferences-Home-Appearance-tintColorButtonTitle" = "Tint Color";
+"Preferences-Home-Appearance-changeIconButtonTitle" = "Change Icon";
+"Preferences-Home-Appearance-toastToBeImplemented" = "To be implemented";
+
+"Preferences-Home-General-sectionTitle" = "General";
+"Preferences-Home-General-privateBrowsingToggleTitle" = "Private Browsing";
+"Preferences-Home-General-desktopModeToggleTitle" = "Force Desktop Mode";
+"Preferences-Home-General-clearCacheButtonTitle" = "Clear Cache";
+
+"Preferences-Home-About-sectionTitle" = "About";
+"Preferences-Home-About-aboutButtonTitle" = "About Bolt";
+"Preferences-Home-InternalDiagnostics-thirdPartyComponentVersionsTitle" = "Third-Party Component Versions";
+
+"Preferences-Home-InternalDiagnostics-sectionTitle" = "Diagnostics (Internal)";
+"Preferences-Home-InternalDiagnostics-checkUpdateButtonTitle" = "Check for Updates";
+"Preferences-Home-InternalDiagnostics-typeBrowserButtonTitle" = "Type Browser";
+"Preferences-Home-InternalDiagnostics-resetData" = "Remove All Data and Quit";
+
+"Preferences-Home-DebugDiagnostics-sectionTitle" = "Diagnostics (Debug)";
+"Preferences-Home-DebugDiagnostics-testCrashButtonTitle" = "Test Crash";
+
+"Preferences-Home-title" = "Preferences";
