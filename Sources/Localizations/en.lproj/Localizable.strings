@@ -66,6 +66,7 @@
 "Preferences-Home-InternalDiagnostics-sectionTitle" = "Diagnostics (Internal)";
 "Preferences-Home-InternalDiagnostics-checkUpdateButtonTitle" = "Check for Updates";
 "Preferences-Home-InternalDiagnostics-typeBrowserButtonTitle" = "Type Browser";
+"Preferences-Home-InternalDiagnostics-webViewInspector" = "Web Inspector";
 "Preferences-Home-InternalDiagnostics-resetData" = "Remove All Data and Quit";
 
 "Preferences-Home-DebugDiagnostics-sectionTitle" = "Diagnostics (Debug)";

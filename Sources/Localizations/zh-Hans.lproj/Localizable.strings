@@ -66,6 +66,7 @@
 "Preferences-Home-InternalDiagnostics-sectionTitle" = "诊断选项 (内部版本)";
 "Preferences-Home-InternalDiagnostics-checkUpdateButtonTitle" = "检查更新";
 "Preferences-Home-InternalDiagnostics-typeBrowserButtonTitle" = "类型浏览器";
+"Preferences-Home-InternalDiagnostics-webViewInspector" = "Web 检查器";
 "Preferences-Home-InternalDiagnostics-resetData" = "清除所有数据并退出";
 
 "Preferences-Home-DebugDiagnostics-sectionTitle" = "诊断选项 (调试)";
