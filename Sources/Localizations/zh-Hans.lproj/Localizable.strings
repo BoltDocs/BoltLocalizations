@@ -39,7 +39,8 @@
 
 "Preferences-About-Contribute-localizationTitle" = "本地化";
 "Preferences-About-Contribute-helpTranslateButtonTitle" = "帮助我们翻译 Bolt";
-"Preferences-About-Contribute-openSourceTitle" = "一方开源项目";
+"Preferences-About-Contribute-openSourceRepositoryTitle" = "开源代码库";
+"Preferences-About-Contribute-openSourceLibrariesTitle" = "一方开源库";
 "Preferences-About-Contribute-openSourceFooter" = "Bolt ❤️ Open Source :-)";
 
 "Preferences-ThirdPartyComponentVersions-Title" = "Third-Party Component Versions";
