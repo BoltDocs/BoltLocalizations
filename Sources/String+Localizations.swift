@@ -32,4 +32,9 @@ public extension String {
     return NSLocalizedString(self, bundle: Bundle.module, comment: "")
   }
 
+  func boltLocalized(_ arguments: any CVarArg...) -> String {
+    let format = boltLocalized
+    return Self.localizedStringWithFormat(format, arguments)
+  }
+
 }

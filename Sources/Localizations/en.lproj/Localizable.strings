@@ -22,6 +22,8 @@
  * SOFTWARE.
  */
 
+"Localizations-General-confirm" = "Confirm";
+
 "Framework-WelcomeController-welcomeTip" = "Welcome";
 "Framework-WelcomeController-title" = "Welcome";
 
@@ -32,6 +34,15 @@
 "Framework-AppCenter-noUpdatesToast" = "No Updates Available";
 
 "Browser-BrowserController-defaultTitle" = "Browser";
+
+"Library-ImportedFeeds-List-title" = "Imported Feeds";
+"Library-ImportedFeeds-List-noFeed" = "No Feed";
+"Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "Rename “%@”";
+"Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "Rename Feed";
+"Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "Name";
+"Library-ImportedFeeds-List-RenameAlert-removeFeedTitle" = "Rename Feed";
+"Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "Do you really want to remove feed “%@”?";
+"Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "Do you really want to remove the feed?";
 
 "Preferences-About-acknowledgementsTitle" = "Acknowledgements";
 "Preferences-About-contributeTitle" = "Contribute to Bolt";

@@ -22,6 +22,8 @@
  * SOFTWARE.
  */
 
+"Localizations-General-confirm" = "确认";
+
 "Framework-WelcomeController-welcomeTip" = "欢迎";
 "Framework-WelcomeController-title" = "欢迎";
 
@@ -32,6 +34,15 @@
 "Framework-AppCenter-noUpdatesToast" = "暂无可用的应用程序更新";
 
 "Browser-BrowserController-defaultTitle" = "浏览";
+
+"Library-ImportedFeeds-List-title" = "导入的订阅源";
+"Library-ImportedFeeds-List-noFeed" = "无订阅源";
+"Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "重命名“%@”";
+"Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "重命名订阅源";
+"Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "名称";
+"Library-ImportedFeeds-List-RenameAlert-removeFeedTitle" = "删除订阅源";
+"Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "确认要删除“%@”吗？";
+"Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "确认要删除订阅源吗？";
 
 "Preferences-About-acknowledgementsTitle" = "致谢";
 "Preferences-About-contributeTitle" = "为 Bolt 项目贡献";
