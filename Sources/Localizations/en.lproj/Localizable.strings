@@ -44,6 +44,10 @@
 "Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "Do you really want to remove feed “%@”?";
 "Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "Do you really want to remove the feed?";
 
+"Library-ImportedFeeds-Import-title" = "Import Feed";
+"Library-ImportedFeeds-Import-urlPlaceHolder" = "Feed URL";
+"Library-ImportedFeeds-Import-nameFeedName" = "Feed Name";
+
 "Preferences-About-acknowledgementsTitle" = "Acknowledgements";
 "Preferences-About-contributeTitle" = "Contribute to Bolt";
 "Preferences-About-title" = "About";

@@ -44,6 +44,10 @@
 "Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "确认要删除“%@”吗？";
 "Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "确认要删除订阅源吗？";
 
+"Library-ImportedFeeds-Import-title" = "导入订阅源";
+"Library-ImportedFeeds-Import-urlPlaceHolder" = "订阅源地址";
+"Library-ImportedFeeds-Import-nameFeedName" = "名称";
+
 "Preferences-About-acknowledgementsTitle" = "致谢";
 "Preferences-About-contributeTitle" = "为 Bolt 项目贡献";
 "Preferences-About-title" = "关于";
