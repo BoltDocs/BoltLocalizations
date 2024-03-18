@@ -23,6 +23,7 @@
  */
 
 "Localizations-General-confirm" = "确认";
+"Localizations-General-getInfo" = "详情";
 
 "Framework-WelcomeController-welcomeTip" = "欢迎";
 "Framework-WelcomeController-title" = "欢迎";
@@ -37,6 +38,7 @@
 
 "Library-ImportedFeeds-List-title" = "导入的订阅源";
 "Library-ImportedFeeds-List-noFeed" = "无订阅源";
+"Library-ImportedFeeds-List-copyFeedURL" = "复制订阅源地址";
 "Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "重命名“%@”";
 "Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "重命名订阅源";
 "Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "名称";
@@ -47,6 +49,9 @@
 "Library-ImportedFeeds-Import-title" = "导入订阅源";
 "Library-ImportedFeeds-Import-urlPlaceHolder" = "订阅源地址";
 "Library-ImportedFeeds-Import-nameFeedName" = "名称";
+
+"Library-ImportedFeeds-Info-feedURLSectionTitle" = "订阅源地址";
+"Library-ImportedFeeds-Info-feedURLCopiedToast" = "已复制订阅源地址";
 
 "Preferences-About-acknowledgementsTitle" = "致谢";
 "Preferences-About-contributeTitle" = "为 Bolt 项目贡献";

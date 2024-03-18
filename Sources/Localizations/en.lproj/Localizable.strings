@@ -23,6 +23,7 @@
  */
 
 "Localizations-General-confirm" = "Confirm";
+"Localizations-General-getInfo" = "Get Info";
 
 "Framework-WelcomeController-welcomeTip" = "Welcome";
 "Framework-WelcomeController-title" = "Welcome";
@@ -37,6 +38,7 @@
 
 "Library-ImportedFeeds-List-title" = "Imported Feeds";
 "Library-ImportedFeeds-List-noFeed" = "No Feed";
+"Library-ImportedFeeds-List-copyFeedURL" = "Copy Feed URL";
 "Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "Rename “%@”";
 "Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "Rename Feed";
 "Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "Name";
@@ -47,6 +49,9 @@
 "Library-ImportedFeeds-Import-title" = "Import Feed";
 "Library-ImportedFeeds-Import-urlPlaceHolder" = "Feed URL";
 "Library-ImportedFeeds-Import-nameFeedName" = "Feed Name";
+
+"Library-ImportedFeeds-Info-feedURLSectionTitle" = "Feed URL";
+"Library-ImportedFeeds-Info-feedURLCopiedToast" = "Feed URL copied";
 
 "Preferences-About-acknowledgementsTitle" = "Acknowledgements";
 "Preferences-About-contributeTitle" = "Contribute to Bolt";
