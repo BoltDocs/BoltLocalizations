@@ -24,8 +24,6 @@
 
 import Foundation
 
-package let kLocalizationBundle = Bundle.module
-
 public extension String {
 
   var boltLocalized: String {
@@ -40,6 +38,8 @@ public extension String {
 }
 
 public class BoltLocalizations {
+
+  package static let localizationBundle = Bundle.module
 
   public static let confirm = "Localizations-General-confirm".boltLocalized
   public static let getInfo = "Localizations-General-getInfo".boltLocalized

@@ -29,7 +29,7 @@ import XCTest
 
 final class LocalizationsTests: XCTestCase {
 
-  private var bundlePath = BoltLocalizations.kLocalizationBundle.bundlePath
+  private var bundlePath = BoltLocalizations.localizationBundle.bundlePath
 
   private func getStringsFileList() -> [String] {
     let enumerator = FileManager.default.enumerator(atPath: bundlePath)
