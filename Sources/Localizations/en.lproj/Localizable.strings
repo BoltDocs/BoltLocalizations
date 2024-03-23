@@ -36,6 +36,10 @@
 
 "Browser-BrowserController-defaultTitle" = "Browser";
 
+"Home-List-DeleteAlert-deleteDocsetTitle" = "Delete Docset";
+"Home-List-DeleteAlert-deleteDocsetMessageFormat" = "Do you really want to delete docset “%@”?";
+"Home-List-DeleteAlert-deleteDocsetMessage" = "Do you really want to delete the docset?";
+
 "Library-ImportedFeeds-List-title" = "Imported Feeds";
 "Library-ImportedFeeds-List-noFeed" = "No Feed";
 "Library-ImportedFeeds-List-copyFeedURL" = "Copy Feed URL";
