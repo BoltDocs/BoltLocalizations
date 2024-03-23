@@ -42,9 +42,9 @@
 "Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "重命名“%@”";
 "Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "重命名订阅源";
 "Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "名称";
-"Library-ImportedFeeds-List-RenameAlert-removeFeedTitle" = "删除订阅源";
-"Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "确认要删除“%@”吗？";
-"Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "确认要删除订阅源吗？";
+"Library-ImportedFeeds-List-RemoveAlert-removeFeedTitle" = "删除订阅源";
+"Library-ImportedFeeds-List-RemoveAlert-removeMessageFormat" = "确认要删除“%@”吗？";
+"Library-ImportedFeeds-List-RemoveAlert-removeFeedMessage" = "确认要删除订阅源吗？";
 
 "Library-ImportedFeeds-Import-title" = "导入订阅源";
 "Library-ImportedFeeds-Import-urlPlaceHolder" = "订阅源地址";

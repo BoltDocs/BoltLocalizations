@@ -38,3 +38,10 @@ public extension String {
   }
 
 }
+
+public class BoltLocalizations {
+
+  public static let confirm = "Localizations-General-confirm".boltLocalized
+  public static let getInfo = "Localizations-General-getInfo".boltLocalized
+
+}

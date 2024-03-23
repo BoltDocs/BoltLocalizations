@@ -42,9 +42,9 @@
 "Library-ImportedFeeds-List-RenameAlert-renameTitleFormat" = "Rename “%@”";
 "Library-ImportedFeeds-List-RenameAlert-renameFeedTitle" = "Rename Feed";
 "Library-ImportedFeeds-List-RenameAlert-namePlaceHolder" = "Name";
-"Library-ImportedFeeds-List-RenameAlert-removeFeedTitle" = "Rename Feed";
-"Library-ImportedFeeds-List-RenameAlert-removeMessageFormat" = "Do you really want to remove feed “%@”?";
-"Library-ImportedFeeds-List-RenameAlert-removeFeedMessage" = "Do you really want to remove the feed?";
+"Library-ImportedFeeds-List-RemoveAlert-removeFeedTitle" = "Remove Feed";
+"Library-ImportedFeeds-List-RemoveAlert-removeMessageFormat" = "Do you really want to remove feed “%@”?";
+"Library-ImportedFeeds-List-RemoveAlert-removeFeedMessage" = "Do you really want to remove the feed?";
 
 "Library-ImportedFeeds-Import-title" = "Import Feed";
 "Library-ImportedFeeds-Import-urlPlaceHolder" = "Feed URL";

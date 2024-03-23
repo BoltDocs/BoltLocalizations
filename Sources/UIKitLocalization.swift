@@ -25,7 +25,7 @@
 #if canImport(UIKit)
 import UIKit
 
-public class UIKitLocalization {
+public class UIKitLocalizations {
 
   private static let UIKitBundle = Bundle(for: UIButton.self)
 
@@ -45,7 +45,7 @@ public class UIKitLocalization {
 public extension String {
 
   var UIKitLocalized: String {
-    return UIKitLocalization.localizedString(self)
+    return UIKitLocalizations.localizedString(self)
   }
 
 }
