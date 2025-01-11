@@ -35,13 +35,13 @@ struct ValidateStringsPlugin: BuildToolPlugin {
     return [
       .prebuildCommand(
         displayName: "Validate .strings files",
-        executable: Path("/usr/bin/python3"),
+        executable: URL(fileURLWithPath: "/usr/bin/python3"),
         arguments: [
-          context.package.directory.appending("./Plugins/ValidateStrings/validate-strings.py"),
-          context.package.directory,
-          // context.pluginWorkDirectory.appending("output.log"),
+          context.package.directoryURL.appending(path: ("./Plugins/ValidateStrings/validate-strings.py")).path(),
+          context.package.directoryURL.path(),
+          // context.pluginWorkDirectoryURL.appending("output.log").path(),
         ],
-        outputFilesDirectory: context.pluginWorkDirectory
+        outputFilesDirectory: context.pluginWorkDirectoryURL
       ),
     ]
   }

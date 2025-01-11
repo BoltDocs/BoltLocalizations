@@ -1,4 +1,4 @@
-// swift-tools-version:5.9
+// swift-tools-version:6.0
 //
 // MIT License
 //
@@ -31,8 +31,8 @@ let package = Package(
   name: "BoltLocalizations",
   defaultLocalization: "en",
   platforms: [
-    .iOS(.v16),
-    .macCatalyst(.v17),
+    .iOS(.v17),
+    .macCatalyst(.v18),
   ],
   products: [
     .library(
@@ -53,12 +53,18 @@ let package = Package(
       resources: [
         .process("./Localizations"),
       ],
+      swiftSettings: [
+        .swiftLanguageMode(.v5)
+      ],
       plugins: ["ValidateStringsPlugin"]
     ),
     .testTarget(
       name: "BoltLocalizationsTests",
       dependencies: ["BoltLocalizations"],
-      path: "./Tests"
+      path: "./Tests",
+      swiftSettings: [
+        .swiftLanguageMode(.v5)
+      ]
     ),
     .plugin(
       name: "ValidateStringsPlugin",
