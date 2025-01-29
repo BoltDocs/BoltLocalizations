@@ -31,7 +31,7 @@ struct ValidateStringsPlugin: BuildToolPlugin {
   func createBuildCommands(
     context: PackagePlugin.PluginContext,
     target: PackagePlugin.Target
-  ) async throws -> [PackagePlugin.Command] {
+  ) throws -> [PackagePlugin.Command] {
     return [
       .prebuildCommand(
         displayName: "Validate .strings files",
