@@ -28,11 +28,12 @@
 "Framework-WelcomeController-welcomeTip" = "欢迎";
 "Framework-WelcomeController-title" = "欢迎";
 
-"Framework-AppCenter-updateAlertTitle" = "有新的应用程序更新可用";
-"Framework-AppCenter-updateAlertMessage" = "需要现在更新吗？";
-"Framework-AppCenter-updateButtonTitle" = "更新";
-"Framework-AppCenter-remindLaterButtonTitle" = "稍后提醒";
-"Framework-AppCenter-noUpdatesToast" = "暂无可用的应用程序更新";
+"Framework-Distribution-updateAlertTitle" = "有新的应用程序更新可用";
+"Framework-Distribution-updateAlertMessage" = "需要现在更新吗？";
+"Framework-Distribution-updateButtonTitle" = "更新";
+"Framework-Distribution-remindLaterButtonTitle" = "稍后提醒";
+"Framework-Distribution-noUpdatesToast" = "暂无可用的应用程序更新";
+"Framework-Distribution-failedToCheckForUpdateToast" = "检查更新失败";
 
 "Browser-BrowserController-defaultTitle" = "浏览";
 

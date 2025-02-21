@@ -28,11 +28,12 @@
 "Framework-WelcomeController-welcomeTip" = "Welcome";
 "Framework-WelcomeController-title" = "Welcome";
 
-"Framework-AppCenter-updateAlertTitle" = "Update available.";
-"Framework-AppCenter-updateAlertMessage" = "Do you want to update?";
-"Framework-AppCenter-updateButtonTitle" = "Update";
-"Framework-AppCenter-remindLaterButtonTitle" = "Remind Later";
-"Framework-AppCenter-noUpdatesToast" = "No Updates Available";
+"Framework-Distribution-updateAlertTitle" = "Update available.";
+"Framework-Distribution-updateAlertMessage" = "Do you want to update?";
+"Framework-Distribution-updateButtonTitle" = "Update";
+"Framework-Distribution-remindLaterButtonTitle" = "Remind Later";
+"Framework-Distribution-noUpdatesToast" = "No Updates Available";
+"Framework-Distribution-failedToCheckForUpdateToast" = "Failed to Check for Updates";
 
 "Browser-BrowserController-defaultTitle" = "Browser";
 
