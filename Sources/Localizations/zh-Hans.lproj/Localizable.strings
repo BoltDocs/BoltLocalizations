@@ -39,6 +39,7 @@
 
 "Home-List-DeleteAlert-deleteDocsetTitle" = "删除文档集";
 "Home-List-DeleteAlert-deleteDocsetMessageFormat" = "确认要删除“%@”吗？";
+"Home-List-DeleteAlert-deleteDocsetMessageMultiple" = "确认要删除 %d 个文档集吗？";
 "Home-List-DeleteAlert-deleteDocsetMessage" = "确认要删除文档集吗？";
 
 "Library-ImportedFeeds-List-title" = "导入的订阅源";

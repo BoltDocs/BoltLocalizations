@@ -39,6 +39,7 @@
 
 "Home-List-DeleteAlert-deleteDocsetTitle" = "Delete Docset";
 "Home-List-DeleteAlert-deleteDocsetMessageFormat" = "Do you really want to delete docset “%@”?";
+"Home-List-DeleteAlert-deleteDocsetMessageMultiple" = "Do you really want to delete the %d docsets?";
 "Home-List-DeleteAlert-deleteDocsetMessage" = "Do you really want to delete the docset?";
 
 "Library-ImportedFeeds-List-title" = "Imported Feeds";
