@@ -39,10 +39,6 @@ let package = Package(
       name: "BoltLocalizations",
       targets: ["BoltLocalizations"]
     ),
-    .plugin(
-      name: "ValidateStringsPlugin",
-      targets: ["ValidateStringsPlugin"]
-    ),
   ],
   dependencies: [],
   targets: [
@@ -56,7 +52,6 @@ let package = Package(
       swiftSettings: [
         .swiftLanguageMode(.v5)
       ],
-      plugins: ["ValidateStringsPlugin"]
     ),
     .testTarget(
       name: "BoltLocalizationsTests",
@@ -65,11 +60,6 @@ let package = Package(
       swiftSettings: [
         .swiftLanguageMode(.v5)
       ]
-    ),
-    .plugin(
-      name: "ValidateStringsPlugin",
-      capability: .buildTool(),
-      path: "./Plugins/ValidateStrings"
     ),
   ]
 )
