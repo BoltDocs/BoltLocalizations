@@ -30,6 +30,13 @@ public extension String {
     return NSLocalizedString(self, bundle: Bundle.module, comment: "")
   }
 
+  var boltLocalizedStringResource: LocalizedStringResource {
+    return LocalizedStringResource(
+      LocalizationValue(self),
+      bundle: Bundle.module
+    )
+  }
+
   func boltLocalized(_ arguments: any CVarArg...) -> String {
     let format = boltLocalized
     return Self.localizedStringWithFormat(format, arguments)
