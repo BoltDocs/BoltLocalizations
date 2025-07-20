@@ -194,13 +194,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Do you really want to delete the %d docsets?"
+            "value" : "Do you really want to delete the %ld docsets?"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "确认要删除 %d 个文档集吗？"
+            "value" : "确认要删除 %ld 个文档集吗？"
           }
         }
       }
