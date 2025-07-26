@@ -31,10 +31,17 @@ public extension String {
   }
 
   var boltLocalizedStringResource: LocalizedStringResource {
+    #if swift(>=6.2)
     return LocalizedStringResource(
       LocalizationValue(self),
       bundle: Bundle.module
     )
+    #else
+    return LocalizedStringResource(
+      LocalizationValue(self),
+      bundle: .atURL(Bundle.module.bundleURL)
+    )
+    #endif
   }
 
   func boltLocalized(_ arguments: any CVarArg...) -> String {
