@@ -37,8 +37,10 @@ public class UIKitLocalizations {
   public static let delete = "Delete".UIKitLocalized
   public static let edit = "Edit".UIKitLocalized
   public static let cancel = "Cancel".UIKitLocalized
+  public static let ok = "OK".UIKitLocalized
   public static let rename = "Rename".UIKitLocalized
   public static let search = "Search".UIKitLocalized
+  public static let select = "Select".UIKitLocalized
 
 }
 
