@@ -936,6 +936,40 @@
         }
       }
     },
+    "Preferences-Home-DocsetsUpToDateAlert-message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All your installed docsets are up to date."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有已安装的文档集均为最新版本。"
+          }
+        }
+      }
+    },
+    "Preferences-Home-DocsetsUpToDateAlert-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docsets Up to Date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档集已是最新"
+          }
+        }
+      }
+    },
     "Preferences-Home-DocsetUpdates-checkForUpdatesButtonTitle" : {
       "extractionState" : "manual",
       "localizations" : {
