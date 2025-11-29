@@ -1,4 +1,4 @@
-// swift-tools-version:6.0
+// swift-tools-version:6.2
 //
 // MIT License
 //
@@ -31,8 +31,8 @@ let package = Package(
   name: "BoltLocalizations",
   defaultLocalization: "en",
   platforms: [
-    .iOS(.v17),
-    .macCatalyst(.v18),
+    .iOS(.v18),
+    .macCatalyst(.v26),
   ],
   products: [
     .library(
