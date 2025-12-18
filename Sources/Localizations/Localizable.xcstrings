@@ -630,6 +630,57 @@
         }
       }
     },
+    "Lookup-SearchScope-Contents" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contents"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目录"
+          }
+        }
+      }
+    },
+    "Lookup-SearchScope-Index" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Index"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "索引"
+          }
+        }
+      }
+    },
+    "Lookup-SearchScope-Reference" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reference"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "参考文档"
+          }
+        }
+      }
+    },
     "Preferences-About-acknowledgementsTitle" : {
       "extractionState" : "manual",
       "localizations" : {
