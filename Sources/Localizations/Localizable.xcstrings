@@ -358,6 +358,23 @@
         }
       }
     },
+    "Library-FeedsInfo-docsetNotAvailableHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is not currently available."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档集 %@ 目前不可用。"
+          }
+        }
+      }
+    },
     "Library-ImportedFeeds-Import-nameFeedName" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -677,6 +694,159 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "参考文档"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_apple_api_reference" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Apple API Reference documentation isn’t available yet. Support is coming soon. Stay tuned."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple API Reference 文档暂不可用，相关支持即将上线，敬请期待。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_dom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is no dedicated docset for DOM. The DOM documentation can be found within the JavaScript docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前没有单独的 DOM 文档集，你可以在 JavaScript 文档集中找到相关内容。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_git" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is no dedicated docset for Git. The Git documentation can be found within the Man Pages docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前没有单独的 Git 文档集，你可以在 Man Pages 文档集中找到相关内容。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_ios" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The documentation for iOS can be found within the Apple API Reference docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 的文档包含在 Apple API Reference 文档集中。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_macos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The documentation for macOS can be found within the Apple API Reference docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 的文档包含在 Apple API Reference 文档集中。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_man_pages" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Man Pages documentation isn’t available yet. Support is coming soon. Stay tuned."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac Pages 文档暂不可用，相关支持即将上线，敬请期待。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_swift" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The documentation for Swift can be found within the Apple API Reference docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swift 的文档包含在 Apple API Reference 文档集中。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_tvos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The documentation for tvOS can be found within the Apple API Reference docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tvOS 的文档包含在 Apple API Reference 文档集中。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_watchos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The documentation for watchOS can be found within the Apple API Reference docset."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "watchOS 的文档包含在 Apple API Reference 文档集中。"
           }
         }
       }
