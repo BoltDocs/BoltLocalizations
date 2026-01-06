@@ -358,7 +358,51 @@
         }
       }
     },
-    "Library-FeedsInfo-docsetNotAvailableHint" : {
+    "Library-Downloads-noDownloadsHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Downloads"
+          }
+        }
+      }
+    },
+    "Library-Downloads-scopeBarAll" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "Library-Downloads-scopeBarCompleted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed"
+          }
+        }
+      }
+    },
+    "Library-Downloads-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloads"
+          }
+        }
+      }
+    },
+    "Library-FeedInfo-docsetNotAvailableHint" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -371,6 +415,149 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文档集 %@ 目前不可用。"
+          }
+        }
+      }
+    },
+    "Library-FeedInfo-SectionTitles-Feed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feed"
+          }
+        }
+      }
+    },
+    "Library-FeedInfo-SectionTitles-Version" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-cheatsheetsDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lightweight docsets for instant referencing"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-cheatsheetsTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cheatsheets"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-customFeedsDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeds with custom URL or imported from the web"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-customFeedsTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Feeds"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-mainDocsetsDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docsets for popular languages and frameworks"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-mainDocsetsTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main Docsets"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-userContributedDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docsets contributed by the community"
+          }
+        }
+      }
+    },
+    "Library-Home-Items-userContributedTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User Contributed"
+          }
+        }
+      }
+    },
+    "Library-Home-SectionTitles-advanced" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced"
+          }
+        }
+      }
+    },
+    "Library-Home-SectionTitles-officialDocsets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Official Docsets"
+          }
+        }
+      }
+    },
+    "Library-Home-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Install New Docsets"
           }
         }
       }
