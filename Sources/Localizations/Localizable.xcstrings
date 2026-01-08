@@ -460,13 +460,13 @@
         }
       }
     },
-    "Library-FeedInfo-SectionTitles-Version" : {
+    "Library-FeedInfo-SectionTitles-Versions" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Version"
+            "value" : "Versions"
           }
         },
         "zh-Hans" : {
@@ -523,7 +523,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "通过自定义链接导入的文档集订阅源"
+            "value" : "通过自定义链接导入文档集订阅源"
           }
         }
       }
