@@ -477,6 +477,40 @@
         }
       }
     },
+    "Library-FeedList-failedToLoadDocsetsHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to Load Docsets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法获取文档集列表"
+          }
+        }
+      }
+    },
+    "Library-FeedList-loadingDocsetsHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading Docsets…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文档集获取中…"
+          }
+        }
+      }
+    },
     "Library-Home-Items-cheatsheetsDescription" : {
       "extractionState" : "manual",
       "localizations" : {
