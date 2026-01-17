@@ -33,6 +33,7 @@ public class UIKitLocalizations {
     return UIKitBundle.localizedString(forKey: string, value: nil, table: nil)
   }
 
+  public static let close = "Close".UIKitLocalized
   public static let done = "Done".UIKitLocalized
   public static let delete = "Delete".UIKitLocalized
   public static let edit = "Edit".UIKitLocalized
