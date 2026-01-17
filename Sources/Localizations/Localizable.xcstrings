@@ -1106,6 +1106,23 @@
         }
       }
     },
+    "Library-Home-SectionFooters-officialDocsets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Official documentation sets are provided by %@."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "官方文档集由 %@ 提供。"
+          }
+        }
+      }
+    },
     "Library-Home-SectionTitles-advanced" : {
       "extractionState" : "manual",
       "localizations" : {
