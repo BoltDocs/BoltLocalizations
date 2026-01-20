@@ -182,7 +182,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "自动更新"
           }
         }
@@ -1412,6 +1412,23 @@
         }
       }
     },
+    "Library-Updates-fetchingUpdatesHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fetching Updates…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获取更新中…"
+          }
+        }
+      }
+    },
     "Library-Updates-Items-latest" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1425,6 +1442,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最新版本"
+          }
+        }
+      }
+    },
+    "Library-Updates-noUpdatesHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Updates"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有更新"
           }
         }
       }
