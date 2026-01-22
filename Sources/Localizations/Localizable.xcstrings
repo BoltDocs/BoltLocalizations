@@ -1650,23 +1650,6 @@
         }
       }
     },
-    "MainFeed-unavailable_apple_general" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The %@ documentation isn’t available yet. Support is coming soon. Stay tuned."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ 文档暂不可用，相关支持即将上线，敬请期待。"
-          }
-        }
-      }
-    },
     "MainFeed-unavailable_dom" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1680,6 +1663,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "目前没有单独的 DOM 文档集，你可以在 JavaScript 文档集中找到相关内容。"
+          }
+        }
+      }
+    },
+    "MainFeed-unavailable_general" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The %@ documentation isn’t available yet. Support is coming soon. Stay tuned."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 文档暂不可用，相关支持即将上线，敬请期待。"
           }
         }
       }
@@ -1731,23 +1731,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "macOS 的文档包含在 Apple API Reference 文档集中。"
-          }
-        }
-      }
-    },
-    "MainFeed-unavailable_man_pages" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The Man Pages documentation isn’t available yet. Support is coming soon. Stay tuned."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mac Pages 文档暂不可用，相关支持即将上线，敬请期待。"
           }
         }
       }
