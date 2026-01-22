@@ -1650,19 +1650,19 @@
         }
       }
     },
-    "MainFeed-unavailable_apple_api_reference" : {
+    "MainFeed-unavailable_apple_general" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The Apple API Reference documentation isn’t available yet. Support is coming soon. Stay tuned."
+            "value" : "The %@ documentation isn’t available yet. Support is coming soon. Stay tuned."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apple API Reference 文档暂不可用，相关支持即将上线，敬请期待。"
+            "value" : "%@ 文档暂不可用，相关支持即将上线，敬请期待。"
           }
         }
       }
