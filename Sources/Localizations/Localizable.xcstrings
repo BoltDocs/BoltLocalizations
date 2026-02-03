@@ -120,24 +120,24 @@
         }
       }
     },
-    "Framework-WelcomeController-title" : {
+    "Framework-WelcomeController-noSelectionHint" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Welcome"
+            "value" : "No Docset Selected"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "欢迎"
+            "value" : "未选择文档集"
           }
         }
       }
     },
-    "Framework-WelcomeController-welcomeTip" : {
+    "Framework-WelcomeController-title" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
