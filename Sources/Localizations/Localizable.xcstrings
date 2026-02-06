@@ -205,6 +205,23 @@
         }
       }
     },
+    "Home-DocsetInfo-SectionTitles-information" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
     "Home-DocsetInfo-SectionTitles-installedFrom" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -218,6 +235,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "安装自"
+          }
+        }
+      }
+    },
+    "Home-DocsetInfo-SectionTitles-location" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Location"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "位置"
+          }
+        }
+      }
+    },
+    "Home-DocsetInfo-SectionTitles-size" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大小"
           }
         }
       }
