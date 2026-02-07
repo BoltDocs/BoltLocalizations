@@ -1140,6 +1140,23 @@
         }
       }
     },
+    "Library-Home-Items-localFeedsTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Local Import"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地导入"
+          }
+        }
+      }
+    },
     "Library-Home-Items-mainDocsetsDescription" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1510,6 +1527,125 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入的订阅源"
+          }
+        }
+      }
+    },
+    "Library-Transfer-ImportSection-selectFromFiles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select From Files"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从文件选择"
+          }
+        }
+      }
+    },
+    "Library-Transfer-LocalDocsetsSection-noDocsetHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Docset Found"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未发现文档集"
+          }
+        }
+      }
+    },
+    "Library-Transfer-SectionTitles-importNewDocsets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import New Docsets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入文档集"
+          }
+        }
+      }
+    },
+    "Library-Transfer-SectionTitles-localDocsets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Local Docsets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地文档集"
+          }
+        }
+      }
+    },
+    "Library-Transfer-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transfer Docsets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "传输文档集"
+          }
+        }
+      }
+    },
+    "Library-Transfer-UnrecognizableDocsetAlert-message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to recognize “%@”. Would you like to delete it?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法识别 “%@”，是否要删除它？"
+          }
+        }
+      }
+    },
+    "Library-Transfer-UnrecognizableDocsetAlert-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to Recognize this Docset"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法识别此文档集"
           }
         }
       }
