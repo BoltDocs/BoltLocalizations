@@ -885,6 +885,23 @@
         }
       }
     },
+    "Library-FeedInfo-InfoSection-contributor" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contributor"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "贡献者"
+          }
+        }
+      }
+    },
     "Library-FeedInfo-loadingVersionsHint" : {
       "extractionState" : "manual",
       "localizations" : {
