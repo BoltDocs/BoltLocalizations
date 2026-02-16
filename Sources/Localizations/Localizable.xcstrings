@@ -1055,6 +1055,23 @@
         }
       }
     },
+    "Library-FeedList-ToolBar-guideButtonTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指南"
+          }
+        }
+      }
+    },
     "Library-Home-Items-cheatsheetsDescription" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1548,19 +1565,36 @@
         }
       }
     },
-    "Library-Transfer-ImportSection-selectFromFiles" : {
+    "Library-Transfer-ImportSection-importFromFiles" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select From Files"
+            "value" : "Import from Files"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "从文件选择"
+            "value" : "从文件导入"
+          }
+        }
+      }
+    },
+    "Library-Transfer-ImportSection-transferFromMac" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transfer from Mac"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 Mac 传输"
           }
         }
       }
