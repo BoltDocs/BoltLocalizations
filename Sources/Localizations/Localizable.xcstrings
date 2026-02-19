@@ -1701,6 +1701,40 @@
         }
       }
     },
+    "Library-Transfer-UnsupportedDocsetAlert-message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is likely to be a %@ Docset form Dash, which we do not currently support. You may continue with the installation, but it may not function properly."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该文档集可能是 Dash %@，我们目前不支持这种文档集。你可以继续安装，但其功能可不正常。"
+          }
+        }
+      }
+    },
+    "Library-Transfer-UnsupportedDocsetAlert-title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsupported Docset"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支持的文档集"
+          }
+        }
+      }
+    },
     "Library-Updates-fetchingUpdatesHint" : {
       "extractionState" : "manual",
       "localizations" : {
