@@ -1021,6 +1021,23 @@
         }
       }
     },
+    "Library-FeedInfo-Versions-updateAvailableWithVersion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Available: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可更新：%@"
+          }
+        }
+      }
+    },
     "Library-FeedInfo-Versions-upToDate" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1769,19 +1786,36 @@
         }
       }
     },
-    "Library-Updates-Items-latest" : {
+    "Library-Updates-Items-updateAvailable" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Latest"
+            "value" : "Update Available"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最新版本"
+            "value" : "可更新"
+          }
+        }
+      }
+    },
+    "Library-Updates-Items-updateAvailableWithVersion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Available: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可更新：%@"
           }
         }
       }
