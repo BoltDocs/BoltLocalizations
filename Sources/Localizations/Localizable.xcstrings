@@ -409,6 +409,23 @@
         }
       }
     },
+    "Home-List-Items-updateAvailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Available"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可更新"
+          }
+        }
+      }
+    },
     "Home-List-NoDocsetsHint-installButtonTitle" : {
       "extractionState" : "manual",
       "localizations" : {
