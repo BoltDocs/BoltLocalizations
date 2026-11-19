@@ -1990,6 +1990,23 @@
         }
       }
     },
+    "Lookup-AddToBookMark-defaultTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无标题"
+          }
+        }
+      }
+    },
     "Lookup-SearchScope-Contents" : {
       "extractionState" : "manual",
       "localizations" : {
