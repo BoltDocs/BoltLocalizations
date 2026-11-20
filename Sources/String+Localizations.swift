@@ -24,24 +24,19 @@
 
 import Foundation
 
+import BoltLocalizationResources
+
 public extension String {
 
   var boltLocalized: String {
-    return NSLocalizedString(self, bundle: Bundle.module, comment: "")
+    return NSLocalizedString(self, bundle: BoltLocalizations.localizationBundle, comment: "")
   }
 
   var boltLocalizedStringResource: LocalizedStringResource {
-    #if swift(>=6.2)
     return LocalizedStringResource(
       LocalizationValue(self),
-      bundle: Bundle.module
+      bundle: BoltLocalizations.localizationBundle
     )
-    #else
-    return LocalizedStringResource(
-      LocalizationValue(self),
-      bundle: .atURL(Bundle.module.bundleURL)
-    )
-    #endif
   }
 
   func boltLocalized(_ arguments: any CVarArg...) -> String {
@@ -53,7 +48,7 @@ public extension String {
 
 public class BoltLocalizations {
 
-  package static let localizationBundle = Bundle.module
+  package static let localizationBundle = Bundle.boltLocalizations
 
   public static let confirm = "Localizations-General-confirm".boltLocalized
   public static let getInfo = "Localizations-General-getInfo".boltLocalized

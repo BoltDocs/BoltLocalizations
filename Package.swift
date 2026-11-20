@@ -44,21 +44,27 @@ let package = Package(
   targets: [
     .target(
       name: "BoltLocalizations",
-      dependencies: [],
+      dependencies: ["BoltLocalizationResources"],
       path: "./Sources",
-      resources: [
-        .process("./Localizations"),
-      ],
+      exclude: ["Localizations"],
       swiftSettings: [
-        .swiftLanguageMode(.v5)
+        .unsafeFlags(["-warn-soft-deprecated"]),
+        .swiftLanguageMode(.v5),
       ],
+    ),
+    .target(
+      name: "BoltLocalizationResources",
+      path: "./Sources/Localizations",
+      resources: [.process("Localizable.xcstrings")],
+      swiftSettings: [.swiftLanguageMode(.v5)]
     ),
     .testTarget(
       name: "BoltLocalizationsTests",
       dependencies: ["BoltLocalizations"],
       path: "./Tests",
       swiftSettings: [
-        .swiftLanguageMode(.v5)
+        .unsafeFlags(["-warn-soft-deprecated"]),
+        .swiftLanguageMode(.v5),
       ]
     ),
   ]
